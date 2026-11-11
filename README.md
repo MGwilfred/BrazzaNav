@@ -1,6 +1,6 @@
-# 🇨🇬 BrazzoNav - Les bus de Brazzaville dans votre poche
+# 🇨🇬 BrazzaNav - Les bus de Brazzaville dans votre poche
 
-**BrazzoNav** est une application web mobile (PWA - Progressive Web App) conçue pour aider les habitants et visiteurs de Brazzaville (Congo) à se déplacer facilement en bus urbains (**Coaster** et **Hiace**), connaître les tarifs (normaux et en période de pénurie de carburant), et s'orienter quand ils sont perdus.
+**BrazzaNav** est une application web mobile (PWA - Progressive Web App) conçue pour aider les habitants et visiteurs de Brazzaville (Congo) à se déplacer facilement en bus urbains (**Coaster** et **Hiace**), connaître les tarifs (normaux et en période de pénurie de carburant), et s'orienter quand ils sont perdus.
 
 ---
 
