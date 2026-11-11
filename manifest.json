@@ -1,0 +1,20 @@
+{
+  "name": "BrazzoNav - Transports Brazzaville",
+  "short_name": "BrazzoNav",
+  "description": "Guide des bus Coaster et Hiace à Brazzaville (Congo)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12151a",
+  "theme_color": "#12151a",
+  "orientation": "portrait-primary",
+  "lang": "fr-CG",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
