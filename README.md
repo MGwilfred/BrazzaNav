@@ -27,26 +27,7 @@
 
 ---
 
-## ✍️ Comment modifier ou ajouter des données (Sans coder !)
 
-Toutes les informations sur les lignes, les arrêts et les prix sont centralisées dans :
-📁 **`data/transport.json`**
 
-Pour ajouter ou modifier un arrêt ou un prix :
-1. Ouvrez `data/transport.json` avec un éditeur de texte (Bloc-notes, VS Code, etc.).
-2. Modifiez le nom, le quartier ou le prix.
-3. Si une information est encore inconnue, laissez simplement `"à confirmer"`.
-
----
-
-## 🚀 Hébergement gratuit sur GitHub Pages
-
-1. Créez un dépôt nommé `BrazzoNav` sur votre compte GitHub.
-2. Déposez-y l'ensemble des fichiers de ce dossier.
-3. Allez dans **Settings** > **Pages** > sous **Branch**, choisissez `main` (ou `master`) et cliquez sur **Save**.
-4. Votre application sera instantanément disponible en ligne à l'adresse :
-   `https://<votre-pseudo>.github.io/BrazzoNav/`
-
----
 
 *Développé avec fierté pour Brazzaville 🇨🇬.*
